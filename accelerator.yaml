@@ -1,0 +1,9 @@
+accelerator:
+  name: ta-composing-example-fragment
+  options:
+  - name: optionFromFragment
+    dataType: boolean
+    description: this option comes from the fragment
+engine:
+  include:
+  - '**'
